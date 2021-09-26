@@ -1,9 +1,9 @@
 # Cameron Hirsh
 
 - 👋 Hi, I’m @camjhirsh
-- 👀 I’m passionate about understanding the constitution of the human body machine, genetics, neurology, mathematics, chemistry, mechanics, outer space, and philosophy.
-- 🌱 I’m currently learning how to perfect my data science cycle skills.
-- 🤝 I’m looking to collaborate on research or products in the intersection of technology and life sciences.
+- 👀 I’m passionate about data science, understanding the workings of the human body machine, genetics, neurology, mathematics, physical chemistry, mechanics, outer space, and philosophy.
+- 🌱 I’m currently learning how to perfect my skills in data science and data management.
+- 🤝 I’m looking to collaborate on research or products in the intersection of technology and life or physical sciences.
 - 💞️ I like to support sustainability and unity causes.
 
 - 📫 How to reach me: **camjhirsh@gmail.com**
