@@ -1,5 +1,3 @@
-# Cameron Hirsh
-
 - Hi I'm @camjhirsh and I like many things.
 
 <!---
