@@ -1,4 +1,4 @@
-- Hi I'm @camjhirsh and I like many things.
+### Hi I'm @camjhirsh. let's collaborate! :)
 
 <!---
 camjhirsh/camjhirsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
