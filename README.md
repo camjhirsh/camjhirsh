@@ -1,8 +1,3 @@
-<h1 align="center">
-  Welcome to my Github :)
-</h1>
-
-
 <!-- Overall Stats -->
 
 <!-- dark system display -->
