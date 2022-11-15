@@ -53,7 +53,7 @@ Available ranks are:
   </tr>
 </table>
 
-A user's score is calculated with the cumulative distribution function, taking in:
+A user's score is calculated with the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function), taking in:
 - commits
 - contributions
 - issues
