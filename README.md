@@ -1,4 +1,4 @@
-[camjhirsh.dev](https://camjhirsh.dev)
+<a href="https://camjhirsh.dev" target="_blank">camjhirsh.dev</a>
 
 <h2> Account Analytics </h2>
 
