@@ -1,7 +1,4 @@
-<h2> Landing Page </h2>
-https://camjhrish.dev 
-
-repoLink
+[camjhirsh.dev](https://camjhirsh.dev)
 
 <h2> Account Analytics </h2>
 
