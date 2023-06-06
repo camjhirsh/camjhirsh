@@ -1,30 +1,31 @@
 <a href="https://camjhirsh.dev" target="_blank">camjhirsh.dev</a>
 
-<h2> Account Analytics </h2>
+
+<!-- <h2> Account Analytics </h2> -->
 
 <!-- Overall Stats -->
 <!-- dark system display -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=camjhirsh&custom_title=Overall%20Stats&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only"/>
-</a>
+</a> -->
 <!-- light system display -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" hspace="15" src="https://github-readme-stats.vercel.app/api?username=camjhirsh&custom_title=Overall%20Stats&show_icons=true&count_private=true&theme=default#gh-light-mode-only"/>
 </a>
 
-<p> &nbsp </p>
+<p> &nbsp </p> -->
 
 <!-- Languages -->
 <!-- dark system display -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camjhirsh&count=10&layout=compact&theme=dark#gh-dark-mode-only"/>
-</a>
+</a> -->
 <!-- light system display -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camjhirsh&count=10&layout=compact&theme=default#gh-light-mode-only"/>
-</a>
+</a> -->
 
-<p> &nbsp </p>
+<!-- <p> &nbsp </p>
 
 Available ranks are:
   
@@ -66,5 +67,5 @@ A user's score is calculated with the [cumulative distribution function](https:/
 
 View the implementation [here](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)
 
-<h4> reference: <a href="https://github.com/anuraghazra/github-readme-stats"> anuraghazra/github-readme-stats </a> </h4>
+<h4> reference: <a href="https://github.com/anuraghazra/github-readme-stats"> anuraghazra/github-readme-stats </a> </h4> -->
 
